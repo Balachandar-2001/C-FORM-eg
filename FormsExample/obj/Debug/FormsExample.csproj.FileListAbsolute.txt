@@ -1,0 +1,10 @@
+D:\C# PROJECT\FormsExample\bin\Debug\FormsExample.exe.config
+D:\C# PROJECT\FormsExample\bin\Debug\FormsExample.exe
+D:\C# PROJECT\FormsExample\bin\Debug\FormsExample.pdb
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.csproj.AssemblyReference.cache
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.Form1.resources
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.Properties.Resources.resources
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.csproj.GenerateResource.cache
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.csproj.CoreCompileInputs.cache
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.exe
+D:\C# PROJECT\FormsExample\obj\Debug\FormsExample.pdb
